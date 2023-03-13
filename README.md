@@ -2,7 +2,7 @@
 
 This repository contains all the necessary files and instructions to run the project.
 
-## intoduction
+## Intoduction
 
 We're excited to share that we recently completed a unique project In collaboration with ALYN Hospital! Introducing Biking Right - a new project that aims to make biking more accessible for children with disabilities. One of the main challenges faced by children with disabilities is finding ways to participate in physical activities that are enjoyable and beneficial. Biking Right uses real-time input from a child's bike to create an interactive game that promotes both safe cycling techniques and rehabilitation of the injured leg. Moreover the Physiotherapist can adjust the difficulty of the game to meet the child's abilities. Biking Right helps kids to build confidence and strength while having fun.
 
@@ -38,6 +38,11 @@ To install the project, follow these steps:
 4. (Optional) If you have the 3D printed adapter, mount the sensors on the pedals using the adapter.
 5. Upload the pedal_sensors.ino file to your Arduino board using the Arduino IDE.
 6. Install the necessary Python libraries: pygame, random, serial.
+   Run following command in your terminal to install pandas using pip on your windows device
+'''bash
+pip install pandas
+'''
+
 
 
 ## Usage
