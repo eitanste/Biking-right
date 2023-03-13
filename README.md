@@ -9,9 +9,9 @@ We're proud to have developed Biking Right as a way to make biking more inclusiv
 Welcome to the Pedal-Powered Car Game project! This is an Arduino-based 2D game that uses pressure sensors mounted on a bike's pedals to control a car that must avoid obstacles and collect fuel. This repository contains all the necessary files and instructions to run the project.
 
 ## Table of Contents
-Prerequisites
-Installation
-Usage
+ - Prerequisites
+- Installation
+-Usage
 Contributing
 
 
