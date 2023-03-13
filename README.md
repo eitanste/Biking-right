@@ -1,12 +1,15 @@
 # Biking-right
+
+This repository contains all the necessary files and instructions to run the project.
+
+## intoduction
+
 We're excited to share that we recently completed a unique project In collaboration with ALYN Hospital! Introducing Biking Right - a new project that aims to make biking more accessible for children with disabilities. One of the main challenges faced by children with disabilities is finding ways to participate in physical activities that are enjoyable and beneficial. Biking Right uses real-time input from a child's bike to create an interactive game that promotes both safe cycling techniques and rehabilitation of the injured leg. Moreover the Physiotherapist can adjust the difficulty of the game to meet the child's abilities. Biking Right helps kids to build confidence and strength while having fun.
 
 In order to help them, we created a game that is controlled by an Arduino and two pressure sensors mounted on a bike's pedals using 3D printed adapters. The game involves a car that needs to avoid obstacles and collect fuel while moving forward as far as possible. The Arduino reads the pressure applied on each pedal and counts the number of successful pedal strokes in a row. This data is then transferred to a Python program using the serial port. The game will interact in real time with the data we get from the ports. 
 
 We're proud to have developed Biking Right as a way to make biking more inclusive for all children. We’re thrilled with the results of this project and we learned a lot about programming and electronics in the process. Together, we can create a world where every child has the chance to enjoy the benefits of physical activity. We’re looking forward to exploring new projects in the future!
-
-# Pedal-Powered Car Game
-Welcome to the Pedal-Powered Car Game project! This is an Arduino-based 2D game that uses pressure sensors mounted on a bike's pedals to control a car that must avoid obstacles and collect fuel. This repository contains all the necessary files and instructions to run the project.
+ 
 
 ## Table of Contents
  - Prerequisites
