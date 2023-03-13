@@ -70,5 +70,3 @@ If you'd like to contribute to this project, please follow these guidelines:
 ## credit
 
 This game is inspired by [pyGuru123](https://github.com/pyGuru123)'s work. pyGuru123 is dedicated to sharing their knowledge and helping others learn programming through open-source projects, tutorials, and contributions to various online communities.
-
-You can find more of their work and projects on [GitHub](https://github.com/pyGuru123).
