@@ -38,8 +38,10 @@ To install the project, follow these steps:
 4. (Optional) If you have the 3D printed adapter, mount the sensors on the pedals using the adapter.
 5. Upload the pedal_sensors.ino file to your Arduino board using the Arduino IDE.
 6. Install the necessary Python libraries: pygame, random, serial.
+
+Use the following line in order to execute 6.
 ```bash
-pip install pygame
+pip install pygame, serial
 ```
 
 
