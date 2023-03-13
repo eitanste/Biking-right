@@ -10,17 +10,17 @@ Welcome to the Pedal-Powered Car Game project! This is an Arduino-based 2D game 
 
 ## Table of Contents
  - Prerequisites
-- Installation
--Usage
-Contributing
+ - Installation
+ - Usage
+ - Contributing
 
 
 ## Prerequisites
 To use this project, you will need:
 
-An Arduino board (tested on Arduino Uno R3)
-Two pressure sensors (tested with FS-05)
-Python 3.x installed on your computer
+1. An Arduino board (tested on Arduino Uno R3)
+2. Two pressure sensors (tested with FS-05)
+3. Python 3.x installed on your computer
 Pygame library for Python 3.x installed on your computer
 (Optional) A 3D printed STL adapter for mounting the sensors on the pedals, which can improve performance.
 *Note: If you don't have the 3D printed adapter, you can still mount the sensors on the pedals using other methods, such as zip ties or tape.
