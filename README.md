@@ -21,45 +21,38 @@ To use this project, you will need:
 1. An Arduino board (tested on Arduino Uno R3)
 2. Two pressure sensors (tested with FS-05)
 3. Python 3.x installed on your computer
-Pygame library for Python 3.x installed on your computer
-(Optional) A 3D printed STL adapter for mounting the sensors on the pedals, which can improve performance.
+4. Pygame library for Python 3.x installed on your computer
+5. (Optional) A 3D printed STL adapter for mounting the sensors on the pedals, which can improve performance.
 *Note: If you don't have the 3D printed adapter, you can still mount the sensors on the pedals using other methods, such as zip ties or tape.
 
-## Installation
-To install the project, follow these steps:
-
-Clone this Git repository onto your computer.
-Connect your Arduino board to your computer.
-Install the necessary Python libraries: pygame,random,serial.
-Upload the pedal-powered-car.ino file to your Arduino board using the Arduino IDE.
-
 
 ## Installation
 To install the project, follow these steps:
 
-Clone this Git repository onto your computer.
-Connect your Arduino board to your computer.
-Connect the pressure sensors to the breadboard and connect the breadboard to the Arduino board using long wires.
-(Optional) If you have the 3D printed adapter, mount the sensors on the pedals using the adapter.
-Upload the pedal-powered-car.ino file to your Arduino board using the Arduino IDE.
-Install the necessary Python libraries by running pip install -r requirements.txt in the terminal.
+1. Clone this Git repository onto your computer.
+2. Connect your Arduino board to your computer.
+3. Connect the pressure sensors to the breadboard and connect the breadboard to the Arduino board using long wires.
+4. (Optional) If you have the 3D printed adapter, mount the sensors on the pedals using the adapter.
+5. Upload the pedal-powered-car.ino file to your Arduino board using the Arduino IDE.
+6. Install the necessary Python libraries: pygame, random, serial.
+
 
 ## Usage
 To run the project, follow these steps:
 
-Open a terminal and navigate to the cloned repository.
-Run python main.py to start the game.
-Make sure the bike pedals are properly connected to the pressure sensors and the Arduino board.
-(Optional) If you have the 3D printed adapter, make sure the sensors are mounted on the pedals.
-Start pedaling on the bike pedals to control the car.
+1. Open a terminal and navigate to the cloned repository.
+2. Run python main.py to start the game.
+3. Make sure the bike pedals are properly connected to the pressure sensors and the Arduino board.
+4. (Optional) If you have the 3D printed adapter, make sure the sensors are mounted on the pedals.
+5. Start pedaling on the bike pedals to control the car.
 
 Note: If the game is not responding to the pedal inputs, make sure the connections between the pressure sensors, breadboard, and Arduino board are correct. You can also check the serial monitor in the Arduino IDE to make sure the sensors are sending the correct data.
 
 ## Contributing
 If you'd like to contribute to this project, please follow these guidelines:
 
-Fork this repository.
-Create a new branch for your changes.
-Make your changes and commit them.
-Push your changes to your forked repository.
-Create a pull request to merge your changes into this repository.
+1. Fork this repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Create a pull request to merge your changes into this repository.
